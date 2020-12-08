@@ -1,10 +1,10 @@
 ![License badge](https://img.shields.io/badge/License-MIT-brightgreen)
 
-    ## Title
+    # Title
 
-    #Eon Playlist
+    Eon Playlist
 
-    ## Description 
+    # Description 
 
     Eon Playlist is an open community playlist that is driven by the user.
 
@@ -12,7 +12,7 @@
 
      This project follows an MVC pattern, while using Node and MySQL.
 
-    ## Table of Contents
+    # Table of Contents
 
       * [Installation](#installation)
     
@@ -22,7 +22,7 @@
 
       * [Tests](#tests)
 
-    ## installation
+    # installation
  
   First run npm install, then update your MySQL connection and password in the "config/connection.js" folder.
     You will also need to have MySQL Workbench installed.
