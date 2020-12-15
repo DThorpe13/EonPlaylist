@@ -81,9 +81,6 @@ $(document).on("click", "#search", function () {
             })
         }
 
-        
-
-
 
         $(".add-button").on("click", function handleFormSubmit(event) {
             
