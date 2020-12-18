@@ -16,11 +16,7 @@ module.exports = function(sequelize, DataTypes) {
     }
     
     },
-    {
-      sync: {force: false},
-      freezeTableName: true,
-      timestamps: true
-    }
+    
     );
 
     return Search;
