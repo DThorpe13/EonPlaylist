@@ -1,8 +1,8 @@
 -- DROP DATABASE IF EXISTS project2_db;
 -- Creates the database --
-CREATE DATABASE project2_db;
+CREATE DATABASE ya2d92kxj7eylvv0;
 
-use project2_db;
+use ya2d92kxj7eylvv0;
 
 create table search (
 id int not null auto_increment,
