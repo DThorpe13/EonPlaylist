@@ -1,4 +1,4 @@
--- DROP DATABASE IF EXISTS project2_db;
+DROP DATABASE IF EXISTS ya2d92kxj7eylvv0;
 -- Creates the database --
 CREATE DATABASE ya2d92kxj7eylvv0;
 
